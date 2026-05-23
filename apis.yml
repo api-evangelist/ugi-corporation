@@ -1,0 +1,63 @@
+aid: ugi-corporation
+name: UGI Corporation
+description: >-
+  UGI Corporation (NYSE: UGI) is a King of Prussia, Pennsylvania-based natural
+  gas and electric utility and propane distribution company. UGI Utilities
+  serves Pennsylvania natural gas and electric customers, AmeriGas is the
+  largest retail propane distributor in the United States, and UGI International
+  markets LPG across Europe through brands including Antargaz, Flaga, and
+  AvantiGas. The corporation also operates midstream and energy marketing
+  businesses. No public developer portal, OpenAPI specs, or third-party
+  developer APIs have been identified. Customer self-service runs on a Smart
+  Energy Water (SEW)-powered Online Account Center (Android package
+  com.sew.ugi) with CheckFree Pay handling bill payments; AmeriGas operates the
+  separate MyAmeriGas portal at myamerigas.com. Large commercial customers use
+  an Oracle APEX-based TCP platform at apex.ugi.com. UGI Utilities is not
+  listed as a supported utility by UtilityAPI or other Green Button
+  aggregators at the time of profiling.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Energy
+  - Utility
+  - Natural Gas
+  - Electric
+  - Propane
+  - LPG
+  - Midstream
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/ugi-corporation/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+position: Consuming
+access: 3rd-Party
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.ugicorp.com
+  - type: SubsidiaryWebsite
+    url: https://www.ugi.com
+  - type: SubsidiaryWebsite
+    url: https://www.amerigas.com
+  - type: SubsidiaryWebsite
+    url: https://www.ugi-international.com
+  - type: CustomerPortal
+    url: https://onlineaccount.ugi.com/portal/
+  - type: CustomerPortal
+    url: https://www.myamerigas.com/
+  - type: CommercialPortal
+    url: https://apex.ugi.com
+  - type: MobileApp
+    url: https://apps.apple.com/app/id6463613724
+  - type: MobileApp
+    url: https://play.google.com/store/apps/details?id=com.sew.ugi
+  - type: InvestorRelations
+    url: https://www.ugicorp.com/investors
+  - type: Careers
+    url: https://www.ugicorp.com/careers
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ugi-corporation
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
