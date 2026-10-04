@@ -1,5 +1,5 @@
 aid: ugi-corporation
-name: UGI Corporation
+name: UGI
 description: >-
   UGI Corporation (NYSE: UGI) is a King of Prussia, Pennsylvania-based natural
   gas and electric utility and propane distribution company. UGI Utilities
@@ -86,3 +86,4 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-legal-name: UGI Corporation
